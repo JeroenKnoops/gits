@@ -31,9 +31,9 @@ When git config user.signingkey is set, gits will automatically try to commit wi
 	$ gits
 
 ### Homebrew
-  $ brew tap jeroenknoops/tap
-  $ brew install gits
-  $ gits
+	$ brew tap jeroenknoops/tap
+	$ brew install gits
+	$ gits
 
 ## Credits
 Originally taken from https://github.com/roylines/gits
