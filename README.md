@@ -26,6 +26,17 @@ When git config user.signingkey is set, gits will automatically try to commit wi
 
 ## Installation
 ### Manual Installation
-	$ wget https://raw.github.com/roylines/gits/master/gits.sh -O /usr/local/bin/gits
+	$ wget https://raw.github.com/roylines/gits/master/bin/gits.sh -O /usr/local/bin/gits
 	$ chmod ugo+x /usr/local/bin/gits
 	$ gits
+
+### Homebrew
+  $ brew tap jeroenknoops/tap
+  $ brew install gits
+  $ gits
+
+## Credits
+Originally taken from https://github.com/roylines/gits
+
+## License
+This code is licensed under the [MIT License](https://opensource.org/licenses/MIT).
